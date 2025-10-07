@@ -14,7 +14,6 @@
 - 💡 Experienced in **Next.js, FastAPI, and LLM-powered agents**
 - 💬 Ask me about **full-stack development, system design, and AI**
 - 🤖 Currently exploring **IoT ,Robotics and Golang**
-- Explori
 - ⚡ Fun fact: I debug with coffee ☕ and late-night lo-fi beats 🎶
 
 
