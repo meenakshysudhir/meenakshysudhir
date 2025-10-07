@@ -66,12 +66,4 @@
 
 ---
 
-### 🐍 Fun Visualization
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meenakshysudhir/meenakshysudhir/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ⭐️ From [Ski](https://github.com/meenakshysudhir)
