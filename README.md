@@ -1,6 +1,6 @@
 <!-- 🌟 FEATURE-RICH GITHUB PROFILE README TEMPLATE -->
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/username" target="_blank">Ski (Meenakshy Sudhir)</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/meenakshysudhir" target="_blank">Ski (Meenakshy Sudhir)</a> 👋</h1>
 <h3 align="center"> Backend Developer | UI/UX | Devops Enthusiast</h3>
 
 <p align="center">
