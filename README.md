@@ -28,7 +28,7 @@
 
 #### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,azure,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,azure,&theme=dark" />
 </p>
 
 #### ⚙️ Tools & DevOps
