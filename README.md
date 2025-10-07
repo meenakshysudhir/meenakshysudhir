@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meenakshysudhir&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshysudhir&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshysudhir&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -55,8 +55,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/meenakshy-sudhir" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/username" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://skidev.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
   <a href="mailto:sudhirski0x@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
