@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🔭 I’ve developed **Echo – an AI agent that transforms PDFs into educational podcasts**
 - 💡 Experienced in **Next.js, FastAPI, and LLM-powered agents**
 - 💬 Ask me about **full-stack development, system design, and AI**
