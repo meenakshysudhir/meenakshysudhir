@@ -1,6 +1,6 @@
 <!-- 🌟 FEATURE-RICH GITHUB PROFILE README TEMPLATE -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/meenakshysudhir" target="_blank">Ski (Meenakshy Sudhir)</a> 👋</h1>
-<h3 align="center"> Backend Developer | UI/UX | MLOps</h3>
+<h3 align="center"> Backend Developer | UI/UX | Devops Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Building+AI-Powered+Experiences;Lifelong+Learner+%26+Tech+Explorer" alt="Typing animation" />
 </p>
